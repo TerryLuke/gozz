@@ -26,7 +26,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	zcore "github.com/go-zing/gozz-core"
+	zcore "github.com/terryluke/gozz-core"
 )
 
 var (

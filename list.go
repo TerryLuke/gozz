@@ -23,8 +23,8 @@ import (
 	"sort"
 	"strings"
 
-	zcore "github.com/go-zing/gozz-core"
 	"github.com/spf13/cobra"
+	zcore "github.com/terryluke/gozz-core"
 )
 
 var list = &cobra.Command{

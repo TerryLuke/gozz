@@ -25,7 +25,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	zcore "github.com/go-zing/gozz-core"
+	zcore "github.com/terryluke/gozz-core"
 )
 
 const testTagData = `package tag05

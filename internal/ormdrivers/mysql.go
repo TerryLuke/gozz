@@ -24,7 +24,7 @@ import (
 	"strings"
 
 	_ "github.com/go-sql-driver/mysql"
-	zcore "github.com/go-zing/gozz-core"
+	zcore "github.com/terryluke/gozz-core"
 )
 
 func init() { zcore.RegisterOrmSchemaDriver(Mysql{}) }

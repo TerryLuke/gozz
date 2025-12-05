@@ -25,9 +25,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	zcore "github.com/go-zing/gozz-core"
+	zcore "github.com/terryluke/gozz-core"
 
-	_ "github.com/go-zing/gozz/internal/plugins"
+	_ "github.com/terryluke/gozz/internal/plugins"
 )
 
 var (

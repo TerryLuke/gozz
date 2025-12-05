@@ -27,8 +27,8 @@ import (
 	"strings"
 	"time"
 
-	zcore "github.com/go-zing/gozz-core"
 	"github.com/spf13/cobra"
+	zcore "github.com/terryluke/gozz-core"
 )
 
 const (

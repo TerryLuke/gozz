@@ -22,9 +22,9 @@ import (
 	"errors"
 	"strings"
 
-	zcore "github.com/go-zing/gozz-core"
+	zcore "github.com/terryluke/gozz-core"
 
-	_ "github.com/go-zing/gozz/internal/ormdrivers"
+	_ "github.com/terryluke/gozz/internal/ormdrivers"
 )
 
 //go:embed orm.go.tmpl

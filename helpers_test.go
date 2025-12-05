@@ -21,7 +21,7 @@ import (
 	"os"
 	"testing"
 
-	zcore "github.com/go-zing/gozz-core"
+	zcore "github.com/terryluke/gozz-core"
 )
 
 func TestGetCoreVersion(t *testing.T) {

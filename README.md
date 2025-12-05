@@ -77,7 +77,7 @@ we develop the toolkits named `Gozz`.
 ### High Extensibility
 
 We provide customizable generating templates,
-[gozz-core](https://github.com/go-zing/gozz-core) for code analysis,
+[gozz-core](https://github.com/terryluke/gozz-core) for code analysis,
 edit and generate.
 External `.so` plugins and [official external](https://github.com/go-zing/gozz-plugins) supported also.
 
@@ -87,7 +87,7 @@ gozz install [--output/-o] [--filepath/-f] [repository]
 
 ## Showcase
 
-- [Gozz-Core](https://github.com/go-zing/gozz-core)
+- [Gozz-Core](https://github.com/terryluke/gozz-core)
 - [Gozz-Plugins](https://github.com/go-zing/gozz-plugins)
 - [Gozz-Doc](https://github.com/go-zing/gozz-doc)
 - [Gozz-Doc-Examples](https://github.com/go-zing/gozz-doc-examples)
